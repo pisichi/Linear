@@ -2,7 +2,7 @@ package work;
 
 import java.util.*;
 
-public class Liner {
+public class Linear {
     static Scanner sc = new Scanner(System.in);
     static int x;
 
